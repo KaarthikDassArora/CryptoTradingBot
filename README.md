@@ -282,4 +282,4 @@ This project is for educational purposes. Use at your own risk.
 
 ## Disclaimer
 
-This bot is for educational and testing purposes only. Trading cryptocurrencies involves risk. Always test thoroughly on testnet before using with real funds. 
+This bot is for educational and testing purposes only. Trading cryptocurrencies involves risk. Always test thoroughly on testnet before using with real funds.
